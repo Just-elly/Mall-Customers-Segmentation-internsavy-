@@ -1,13 +1,15 @@
 Project Overview
+
 This project focuses on segmenting mall customers based on their Annual Income and Spending Score. Customer segmentation is a crucial marketing strategy that helps businesses tailor their offerings and marketing efforts to different customer groups effectively. By understanding the characteristics and behaviors of different segments, the mall can enhance customer satisfaction and boost sales.
 
 Motivation
-The motivation behind this project is to provide actionable insights to the mall's management and marketing teams. By dividing customers into meaningful segments, the mall can:
 
+The motivation behind this project is to provide actionable insights to the mall's management and marketing teams. By dividing customers into meaningful segments, the mall can:
 Customize marketing campaigns to target specific customer groups.
 Optimize store layouts and product placements to improve customer experience.
 Develop personalized promotions and loyalty programs.
 Identify high-value customer segments for focused attention.
+
 Data
 The dataset is acquired from Kaggle and the link is given below :
  /kaggle/input/customer-segmentation-tutorial-in-python/Mall_Customers.csv
